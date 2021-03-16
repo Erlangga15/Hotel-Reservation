@@ -21,7 +21,7 @@
     "prettier": "^2.2.1"
   },
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "dev": "nodemon ./bin/www"
   },
   "repository": {
     "type": "git",
